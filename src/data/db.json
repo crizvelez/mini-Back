@@ -1,0 +1,27 @@
+{
+    "productos":[
+        {
+            "id":1,
+            "nombre":"",
+            "imagen":"",
+            "precioUnitario": 125.28,
+            "tipoAccesorio": "anillo",
+            "stock":{
+                "gold":{ "s": 3, "m": 5, "l": 4},
+                "plate":{ "s": 3, "m": 5, "l": 4}
+            }
+        },
+        {
+            "id":2,
+            "nombre":"",
+            "imagen":"",
+            "precioUnitario": 125.28,
+            "tipoAccesorio": "brazalete",
+            "stock":{
+                "gold":7,
+                "plate":9
+            }
+        }
+    ],
+    "ordenesCompra":[]
+}
